@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parth-singhal27
 - 👀 I’m interested in Data Science, and Web Development
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Anyone TBH
+- 💞️ I’m looking to collaborate on Anything with Anyone intresting TBH
 - 📫 How to reach me parthsinghal27@gmail.com
 
 <!---
